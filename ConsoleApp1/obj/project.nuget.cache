@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nURbd342H+ARyknObNsxiVpaGDjtXkXu6vjJFOZXjK3pJgZxbW9706X1/Ft4g/uWKGUxOI/mjHCA4wYib2RBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giuli\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giuli\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
