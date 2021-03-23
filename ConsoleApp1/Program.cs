@@ -189,7 +189,7 @@ namespace ConsoleApp1
 
         public static void GetTodosId404()
         {
-            int id = 1;
+            int id = 1000;
             var request = new RestRequest($"/todos/{id}", Method.GET);
             request.AddHeader("X-Challenger", challenger);
 

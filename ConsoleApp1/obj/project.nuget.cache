@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+nURbd342H+ARyknObNsxiVpaGDjtXkXu6vjJFOZXjK3pJgZxbW9706X1/Ft4g/uWKGUxOI/mjHCA4wYib2RBw==",
+  "dgSpecHash": "Zzk5+BXDtLgn+HeP0aFLBFIE1mtP5U0KnxGSzbER3+ilou/BTER2I1Z54Xo+E91iMH4pZGt6ehVygiAkxlE5ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giuli\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\giuli\\source\\repos\\ApiChallenge\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giuli\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\giuli\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
